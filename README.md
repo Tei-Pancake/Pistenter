@@ -7,12 +7,12 @@ Alguna vez te haz preguntado: "Que pasaria si pudiera utilizar redstone y piston
 
 
 # Look interior:
-![Look interior](Images/Interior.png)
+![Look interior](Images/Dentro.png)
 
-**Hardware**
--Switch
--Cerebro
--Resistencia
+**Hardware** <br>
+-Switch <br>
+-Cerebro <br>
+-Resistencia <br>
 
 
 Mi motivacion para construir esto fue que queria un teclado de una tecla, pero todos eran aburridos, feos y excesivamente caros, asi que decidi fabricar el mio, mas bonito y facil de reparar.
